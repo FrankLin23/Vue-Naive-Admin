@@ -14,7 +14,7 @@ export const constantRoutes: RouteRecordRaw[] = [
 
 const router = createRouter({
   history: createWebHashHistory(),
-  routes: [],
+  routes: constantRoutes,
 });
 
 export default router;

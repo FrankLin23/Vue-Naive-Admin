@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-	<NButton type="primary">Click</NButton>
+  <RouterView />
 </template>
 
 <style scoped></style>
